@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaltariq360&label=Profile%20views&color=0e75b6&style=flat" alt="bilaltariq360" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bilaltariq360&label=Profile%20views&color=0e75b6&style=flat" alt="bilaltariq360" /> </p>
 
 - 💬 Ask me about *C++ , .NET FRAMEWORK, Front end web development, UI/UX Design*
 
@@ -39,5 +39,8 @@
 <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>
 </p>
+
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaltariq360&show_icons=true&locale=en" alt="bilaltariq360" /></p>
