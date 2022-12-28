@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://github.com/bilaltariq360/bilaltariq360/main/giphy.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://github.com/bilaltariq360/bilaltariq360/main/giphy.gif#gh-light-mode-only" align="center" height="325" />
-</div>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
