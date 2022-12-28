@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bilaltariq360&label=Profile%20views&color=0e75b6&style=flat" alt="bilaltariq360" /> </p>
 
-- 💬 Ask me about *C++ , .NET FRAMEWORK, Front end web development, UI/UX Design*
+<p align="center"> - 💬 Ask me about <i> C++ , .NET FRAMEWORK, Front end web development, UI/UX Design </i> </p>
 
 <br>
 <br>
