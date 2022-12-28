@@ -1,4 +1,7 @@
-<p align="center"><img src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G"</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
