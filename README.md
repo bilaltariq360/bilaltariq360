@@ -1,4 +1,4 @@
-<p align="center"><img src="https://giphy.com/embed/26DoiqmYcxgFICb3G" /></p>
+<p align="center"><img src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G"</p>
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
