@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/bilaltariq360/bilaltariq360/main/giphy.gif" align="center" height="325" />
-</div>
+<p align = "center" img src="https://raw.githubusercontent.com/bilaltariq360/bilaltariq360/main/giphy.gif" align="center" height="325"> </p>
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
