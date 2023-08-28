@@ -1,11 +1,9 @@
-<p align="center"><img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" /></p>
+<p align="center"><img src="https://github.com/bilaltariq360/bilaltariq360/blob/main/giphy.gif" /></p>
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 <br>
 <br>
-
-<p align="center"> <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="bilaltariq360" /> </p>
 
 <p align="center"> 💬 Ask me about <strong><i> Flutter Mobile App Development, C++ , C# , .NET FRAMEWORK, Front end web development, UI Design </i></strong> </p>
 
