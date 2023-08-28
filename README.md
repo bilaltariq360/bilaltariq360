@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bilaltariq360&label=Profile%20views&color=0e75b6&style=flat" alt="bilaltariq360" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="bilaltariq360" /> </p>
 
 <p align="center"> 💬 Ask me about <strong><i> Flutter Mobile App Development, C++ , C# , .NET FRAMEWORK, Front end web development, UI Design </i></strong> </p>
 
