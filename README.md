@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="center"> 💬 Ask me about <strong><i> Flutter Mobile App Development, C++ , C# , .NET FRAMEWORK, Front end web development, UI Design </i></strong> </p>
+<p align="center"> 💬 Ask me about <strong><i> App Development (Android | IOS | Desktop), C++ , C# , DART, .NET FRAMEWORK, WINUI 3, Front end web development, UI Design </i></strong> </p>
 
 <br>
 <br>
