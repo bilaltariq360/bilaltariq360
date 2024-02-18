@@ -40,7 +40,8 @@
 <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>
 </p>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ibilaltariq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibilaltariq" /></a></p><br><br>
 <br>
 <br>
 
