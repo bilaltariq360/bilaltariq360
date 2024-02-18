@@ -1,3 +1,5 @@
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ibilaltariq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibilaltariq" /></a></p><br><br>
 <p align="center"><img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" /></p>
   <!-- https://github.com/bilaltariq360/bilaltariq360/blob/main/giphy.gif -->
 <h1 align="center">Hi 👋, I'm Bilal Tariq</h1>
