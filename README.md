@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full-Stack and Desktop developer from Pakistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
-<img src="https://img.shields.io/github/followers/affan-ch?label=Followers&style=flat&color=0e75b6" alt="Followers" /> 
-<img src="https://img.shields.io/github/stars/affan-ch?label=Stars&style=flat&color=0e75b6" alt="Followers" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="bilaltariq360" />
+<img src="https://img.shields.io/github/followers/bilaltariq360?label=Followers&style=flat&color=0e75b6" alt="Followers" /> 
+<img src="https://img.shields.io/github/stars/bilaltariq360?label=Stars&style=flat&color=0e75b6" alt="Followers" /> </p>
 
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and ORACLE.
@@ -90,8 +90,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
+  <!--<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
+  <img width="12" />-->
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
