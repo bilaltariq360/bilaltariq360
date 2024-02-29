@@ -27,7 +27,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about **MERN, FLUTTER**
 
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **https//:ibilaltariq.netlify.app**
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me <a href="https://ibilaltariq.netlify.app/">**https//:ibilaltariq.netlify.app**</a>
 
 
 
@@ -35,25 +35,25 @@
 <h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Connect with me: </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/affan-ch">
+  <a href="https://www.linkedin.com/in/ibilaltariq/">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-  <a href="https://x.com/Ch_Affan_Ali">
+  <a href="https://x.com/ibilaltariq">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 
 
-  <a href="https://instagram.com/ch.affan.ali">
+  <a href="https://instagram.com/ibilaltariq">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   
-  <a href="mailto:affan_ali_ch@outlook.com">
+  <!--<a href="mailto:hafizbilaltariq360@gmail.com">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  </a>-->
   
   
-  <a href="mailto:muhammadaffanmaqsood@gmail.com">
+  <a href="mailto:hafizbilaltariq360@gmail.com">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
@@ -139,9 +139,8 @@
 ###
 
 <h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3>
-<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=github-compact&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true&line=39D353&point=fff&title_color=39D353" />
--->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=react-dark&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaltariq360&hide_border=true&theme=react-dark&custom_title=Bilal%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
 
 
 
